@@ -1,2 +1,1 @@
-# Story
-My Masterpiece
+A port scanner is a software application designed to probe a server or host for open ports. This is often used by administrators to verify security policies of their networks and by attackers to identify running services on a host with the view to compromise it.
